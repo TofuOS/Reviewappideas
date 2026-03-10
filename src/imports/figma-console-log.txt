@@ -1,0 +1,247 @@
+ Running frontend commit 104e5cff5c002c982d12ee7e71d6e343532dd808
+ Statsig is not ready to log exposures, will retry in 1 seconds
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+(index):1  Failed to load resource: net::ERR_FAILED
+ [import] git: 48589f4cb70c6245ed05d8f4e8e56d36d6b05fb3, stamp: 594A0F27E5DEFE4C
+ Loaded 31 scripts (5988499b), 11 from cache (157292b)
+ [Fullscreen] Booting... (emscripten version 4.0.21)
+ [GPU] graphicsAPI:"WebGPU", vendor:"Google Inc. (Apple)" renderer:"ANGLE (Apple, ANGLE Metal Renderer: Apple M4, Unspecified Version)" deviceArchitecture:"metal-3" deviceDescription:"" webGPUDevice:"" webGPUVendor:"apple" bindings:"emdawnwebgpu"
+ [Fullscreen] Ready in 1052.1ms
+ [devtools] Initialized LS
+ [FullscreenApp] calling setEditorTheme and setting preference dark
+ [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/pwquIBLhei2e8ujq95Hh26?role=editor&tracking_session_id=BrpqBRTQjjDd7Ezc&version=151&recentReload=0&file-load-streaming-compression&user-id=1567919737898745871&client_release=104e5cff5c002c982d12ee7e71d6e343532dd808
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ [FigmaSuspense] Suspense fallback rendered more than once. This likely means the UI is undergoing severe visual thrash. The following stack-traces are from the most-recently thrown promises:
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ [FigmaSuspense] Recently tracked breadcrumbs:
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ Error
+    at s (1039-3b55194fb03a991…in.js.br:1727:31662)
+    at n (6215-1b9c7b123472edb…min.js.br:70:271731)
+    at _ (5744-6473a73800182ad…min.js.br:50:235901)
+    at f (1039-3b55194fb03a991…n.js.br:1101:141866)
+    at M (figma_app-a1e03f1c19…n.js.br:420:1674618)
+    at j (figma_app-a1e03f1c19…n.js.br:420:1674859)
+    at f (6066-fcf36ca34124bdd7.min.js.br:3:46887)
+    at g (6066-fcf36ca34124bdd7.min.js.br:3:46985)
+    at _ (5484-e91d4a7083d3faf…min.js.br:147:46920)
+    at 5484-e91d4a7083d3faf8.min.js.br:12:60731
+    at rp (vendor-core-ade2edec….min.js.br:11:58377)
+    at ap (vendor-core-ade2edec….min.js.br:11:72672)
+    at u (vendor-core-ade2edec…min.js.br:11:120132)
+    at oH (vendor-core-ade2edec….min.js.br:11:98914)
+    at oI (vendor-core-ade2edec….min.js.br:11:98784)
+    at oL (vendor-core-ade2edec….min.js.br:11:95889)
+    at f5 (vendor-core-ade2edec….min.js.br:11:44783)
+    at vendor-core-ade2edec….min.js.br:11:93469
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ Sentry event id: edbb6079213b407ca452ff84a5cb3320
+ [MultiplayerSession] Joining file version 101 (full reconnect)
+/api/make/fetch_ds_code_gen_status:1  Failed to load resource: the server responded with a status of 400 ()
+ [esbuild-wasm] Initializing from URL: /webpack-artifacts/assets/2b68f2d3d5e8b3d6.wasm
+ [devtools] Initialized LS
+ [esbuild-wasm] Initialized
+ [bundleCode] Found 4 CSS files in VFS
+ [bundleCode] Total CSS size to be processed by lightningcss: 0.01MB
+ [lightningcss-wasm] Initialized
+ [lightningCSS] Processing 0.01MB of CSS (environment: browser)
+ [lightningCSS] Encoded size: 0.01MB
+ [lightningCSS] Transform completed successfully
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ [devtools] Initialized LS
+ [Livegraph] Connection closed. Code: 4010, reason: server_idle
+ [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/pwquIBLhei2e8ujq95Hh26?role=editor&tracking_session_id=BrpqBRTQjjDd7Ezc&version=151&recentReload=0&file-load-streaming-compression=&user-id=1567919737898745871&client_release=104e5cff5c002c982d12ee7e71d6e343532dd808&reconnect-key=f6e5055ca8ddf4f5f03941ed136fbff7727c8ed1&reconnect-sequence-number=64&initialFileVersion=101&previousLoadMode=full&incremental-loading-validation=0
+ [MultiplayerSession] Joining file version 106 (full reconnect)
+ Migration succeeded: context: fullscreen_migrate_pending_changes, version: 106, duration: 0ms.
+ Migration succeeded: context: fullscreen_migrate_SceneGraphManager, version: 106, duration: 0ms.
+ [Livegraph] Connection closed. Code: 4010, reason: server_idle
+ [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/pwquIBLhei2e8ujq95Hh26?role=editor&tracking_session_id=BrpqBRTQjjDd7Ezc&version=151&recentReload=0&file-load-streaming-compression=&user-id=1567919737898745871&client_release=104e5cff5c002c982d12ee7e71d6e343532dd808&reconnect-key=f6e5055ca8ddf4f5f03941ed136fbff7727c8ed1&reconnect-sequence-number=66&initialFileVersion=106&previousLoadMode=full&incremental-loading-validation=0
+ Too many elapsed hits of react since last report
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ [MultiplayerSession] Joining file version 106 (skip_reload reconnect)
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+/api/make/fetch_ds_code_gen_status:1  Failed to load resource: the server responded with a status of 400 ()
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: <URL>
+ Specifying 'overflow: visible' on img, video and canvas tags may cause them to produce visual content outside of the element bounds. See https://github.com/WICG/view-transitions/blob/main/debugging_overflow_on_images.md for details.
+a @ 1039-3b55194fb03a991d.min.js.br:1140
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+ [FullscreenApp] calling setEditorTheme and setting preference dark
+ [FullscreenApp] calling setEditorTheme and setting preference dark
+ [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/DVx1mr6xgRP3TeMQgxzdYS?role=editor&tracking_session_id=BrpqBRTQjjDd7Ezc&version=151&recentReload=0&file-load-streaming-compression&user-id=1567919737898745871&client_release=104e5cff5c002c982d12ee7e71d6e343532dd808
+ [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edec…4781c7.min.js.br:54
+/api/make/fetch_ds_code_gen_status:1  Failed to load resource: the server responded with a status of 400 ()
+ [MultiplayerSession] Joining file version 101 (full reconnect)
+ [bundleCode] Found 4 CSS files in VFS
+ [bundleCode] Total CSS size to be processed by lightningcss: 0.01MB
+ [lightningCSS] Processing 0.01MB of CSS (environment: browser)
+ [lightningCSS] Encoded size: 0.01MB
+ [lightningCSS] Transform completed successfully
+ [bundleCode] Found 4 CSS files in VFS
+ [bundleCode] Total CSS size to be processed by lightningcss: 0.01MB
+ [lightningCSS] Processing 0.01MB of CSS (environment: browser)
+ [lightningCSS] Encoded size: 0.01MB
+ [lightningCSS] Transform completed successfully
+ [devtools] Initialized LS
+ [devtools] Initialized LS
+/api/make/fetch_ds_code_gen_status:1  Failed to load resource: the server responded with a status of 400 ()
+vendor-core-ade2edecaf4781c7.min.js.br:54 [file_browser.navigation_mark] You appear to be logging a relative timestamp and not an epoch timestamp. Try adding performance.timeOrigin to the timestamp.
+(anonymous) @ vendor-core-ade2edecaf4781c7.min.js.br:54
+agfvyczkdombnhpxbmri.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()
+agfvyczkdombnhpxbmri.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()
+agfvyczkdombnhpxbmri.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()
+agfvyczkdombnhpxbmri.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()
+agfvyczkdombnhpxbmri.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()
+agfvyczkdombnhpxbmri.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+Review-app-ideas?t=w25VfMc95X9di1GZ-0&preview-route=%2Fintegrations:1 Form submission canceled because the form is not connected
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/slack:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/slack:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/slack:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/teams:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/teams:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/teams:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+ Loading integration status with session: eyJhbGciOiJFUzI1NiIs...
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+ Error loading integration status: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async loadIntegrationStatus (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134463771:115:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+ Authentication error - user may need to log in again
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+ Connection error: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async handleConnect (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134463771:150:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+ Connection error: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async handleConnect (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134463771:150:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/slack:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/slack:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/slack:1  Failed to load resource: the server responded with a status of 401 ()
+ Connection error: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async handleConnect (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134463771:150:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gcal:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gcal:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gcal:1  Failed to load resource: the server responded with a status of 401 ()
+ Connection error: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async handleConnect (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134463771:150:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/teams:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/teams:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/teams:1  Failed to load resource: the server responded with a status of 401 ()
+ Connection error: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async handleConnect (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134463771:150:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+ 9:29:00 AM [vite] (client) hmr update /src/app/pages/Integrations.tsx, /src/styles/index.css
+ Loading integration status with session: eyJhbGciOiJFUzI1NiIs...
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/integrations/status:1  Failed to load resource: the server responded with a status of 401 ()
+ Error loading integration status: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async loadIntegrationStatus (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134940380:115:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
+ Authentication error - user may need to log in again
+ Current session user: dff568d7-abc2-40a9-8def-c9ad42913c72
+ Access token (first 20 chars): eyJhbGciOiJFUzI1NiIs
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+agfvyczkdombnhpxbmri.supabase.co/functions/v1/make-server-a44134ce/oauth/connect/gmail:1  Failed to load resource: the server responded with a status of 401 ()
+ Connection error: Error: API request failed: {"code":401,"message":"Invalid JWT"}
+    at authenticatedRequest (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/lib/api.ts:29:11)
+    at async handleConnect (app-x3gwuvjsxxuqiqo77z34pd2cfnbmxolxek6pkjlm2ilmo2avedgq.makeproxy-c.figma.site/src/app/pages/Integrations.tsx?t=1773134940380:159:24)
+(anonymous) @ code_components_prev…89ccb5.min.js.br:28
